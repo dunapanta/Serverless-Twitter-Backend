@@ -1,0 +1,2 @@
+name: serverless-twitter
+schema: schema.api.graphql

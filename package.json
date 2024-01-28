@@ -9,6 +9,7 @@
   "author": "Daniel Unapanta",
   "license": "ISC",
   "devDependencies": {
-    "serverless": "^3.38.0"
+    "serverless": "^3.38.0",
+    "serverless-appsync-plugin": "^2.6.0"
   }
 }
