@@ -1,0 +1,14 @@
+{
+  "name": "serverless-twitter",
+  "version": "1.0.0",
+  "description": "Serverless twitter",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "author": "Daniel Unapanta",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^3.38.0"
+  }
+}
